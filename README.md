@@ -1,2 +1,2 @@
-# Euler-Newton-Method
-Euler-Newton Method for Solving Differential Equations Using C++
+# Euler-Newton-Method for Solving ODEs Using C++
+The Euler-Newton method is a numerical technique used to solve differential equations. It combines the Euler method, which is a simple first-order approach for approximating solutions, with Newton's method, which refines solutions by iteratively improving estimates using derivative information. The Euler method updates the solution based on a step size and the derivative, while Newton's method enhances this by solving for the roots of nonlinear equations, leading to more accurate and stable solutions. This combined approach is particularly useful for differential equations that are complex or have nonlinear components.
